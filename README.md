@@ -1,1 +1,2 @@
-# Diabetes-prediction-using-machine-learning-
+# Diabetes prediction using machine learning
+The diabetes dataset is widely used in machine learning and healthcare analysis. It contains medical details of 768 patients and is used to predict whether a patient has diabetes. The dataset includes 8 predictor variables such as pregnancies, glucose level, blood pressure, skin thickness, insulin, BMI, diabetes pedigree function, and age. The outcome variable is binary, where 1 indicates diabetes and 0 indicates no diabetes. Researchers and data scientists use this dataset to build machine learning models like logistic regression and decision trees for diabetes prediction, data analysis, and visualization in healthcare applications.
